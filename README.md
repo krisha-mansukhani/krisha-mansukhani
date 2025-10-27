@@ -42,11 +42,6 @@ Analyzed national HRSA transplant data (2019–2024) using **beta regression** a
 
 ---
 
-### ☕ About Me
-When I’m not wrangling data, I’m probably making espresso, planning a garden layout, or hunting for good books with jealous, possessive love interests (fiction only 😅).
-
----
-
 📫 **Let’s Connect:**  
 [LinkedIn](https://linkedin.com/in/krishamansukhani) • [Email](mailto:krishamansukhani@email.com)
 
