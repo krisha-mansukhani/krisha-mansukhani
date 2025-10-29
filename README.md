@@ -23,7 +23,7 @@ My work bridges **statistics**, **machine learning**, and **health analytics** t
 
 ------------------------------------------------------------------------
 
-## 🧬 Research & Analytics Projects
+##  Research & Analytics Projects
 
 | Project | Description | Tools |
 |-----------------------|------------------------------|-------------------|
