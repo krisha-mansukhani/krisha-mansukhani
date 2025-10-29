@@ -2,12 +2,12 @@
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-1A4E9C?logo=sas&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/Deployed_on-GitHub_Pages-222222?logo=githubpages)
 
-# Hi, I’m Krisha Mansukhani
+# Krisha Mansukhani
 
 ### Biostatistics • Data Science • Health Analytics
 
-🎓 **M.S. Biological Data Science** — *Arizona State University, 2025*\
-🏥 **Biostatistics Intern** — *Phoenix Children’s Hospital (2024–2025)*
+ **M.S. Biological Data Science** — *Arizona State University, 2025*\
+ **Biostatistics Intern** — *Phoenix Children’s Hospital (2024–2025)*
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ My work bridges **statistics**, **machine learning**, and **health analytics** t
 
 ------------------------------------------------------------------------
 
-## 📄 Publications & Presentations
+##  Publications & Presentations
 
 | Title | Venue | Role |
 |------------------------|---------------------------|---------------------|
@@ -46,7 +46,7 @@ My work bridges **statistics**, **machine learning**, and **health analytics** t
 
 ------------------------------------------------------------------------
 
-## 🧠 Technical Strengths
+##  Technical Strengths
 
 | Category | Skills |
 |-----------------------------------------|-------------------------------|
@@ -60,7 +60,7 @@ My work bridges **statistics**, **machine learning**, and **health analytics** t
 
 ------------------------------------------------------------------------
 
-📫 **Let’s Connect:**\
+ **Let’s Connect:**\
 [LinkedIn](https://linkedin.com/in/krishamansukhani) • [Email](mailto:krishamansukhani@email.com)
 
 ------------------------------------------------------------------------
